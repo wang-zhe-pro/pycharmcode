@@ -18,6 +18,6 @@ class solution:
                 flag[num]=False
 if __name__ == '__main__':
     a=solution()
-    nums=['莫','小','陈']
+    nums=['莫','小','珍']
     res=a.visited(nums)
     print(res)
